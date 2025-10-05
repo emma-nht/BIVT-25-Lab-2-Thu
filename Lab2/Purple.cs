@@ -17,6 +17,7 @@ namespace Lab2
 
             return answer;
         }
+   
         public (int quotient, int remainder)  Task2(int a, int b)
         {
             int quotient = 0;
@@ -24,7 +25,6 @@ namespace Lab2
 
             // code here
 
-            // end
 
             return (quotient, remainder);
         }
